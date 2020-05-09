@@ -1,4 +1,4 @@
 # knock-knock-api
 
 To run the app:
-node index.js
+DEBUG=knock-knock-api:* npm start
