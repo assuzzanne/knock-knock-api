@@ -1,0 +1,22 @@
+{
+  "name": "knock-knock-api",
+  "version": "1.0.0",
+  "description": "REST API Authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assuzzanne/knock-knock-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/assuzzanne/knock-knock-api/issues"
+  },
+  "homepage": "https://github.com/assuzzanne/knock-knock-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
